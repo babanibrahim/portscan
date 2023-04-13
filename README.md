@@ -8,7 +8,7 @@ Simple Port Scanner
 
             *              Baban Ibrahim, 2022                             *
 
-            *       https://www.facebook.com/Babanpasha01/                 *
+            *       https://www.facebook.com/Baban.pasha.10/                 *
 
             *           https://twitter.com/Baban_pasha                    *
             
